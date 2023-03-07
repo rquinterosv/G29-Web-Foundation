@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* header {
+    background-image: url(/Desafio_CSS/assets/img/imagen_ejemplo.avif);
+    width: auto;
+} */
+
+.principal {
+    background-image: url(/Desafio_CSS/assets/img/imagen_ejemplo.avif);
+    width: auto;
+}
+
+.producto {
+    display: flex;
+    padding: 50px;
+}
+
+.productos .producto img {
+    width: 20%;
+}
+
+.productos .producto .texto {
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
